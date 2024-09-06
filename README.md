@@ -1,2 +1,5 @@
 # Leetcode-Submissions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v3](https://github.com/raphaelheinz/LeetHub-3.0)
+My Leetcode submissions from 2023 to the present.
+
+I am currently using Neetcodes Blind-75 playlist to go through the problems and learn.
+https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf
