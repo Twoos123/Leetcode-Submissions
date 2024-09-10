@@ -14,7 +14,7 @@ class Solution(object):
                 return m
             elif target < nums[m]:
                 r = m - 1
-            elif target > nums[m]:
+            else:
                 l = m + 1
         return -1
 
