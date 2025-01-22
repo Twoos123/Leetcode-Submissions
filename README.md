@@ -18,10 +18,6 @@ I started by going through the **Blind-75 Playlist** from NeetCode to learn dyna
 Now, I am working through **Sean Prashad’s Leetcode Patterns** to further enhance my problem-solving skills.
 - [Sean Prashad Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 
-## Languages:
-- **Python3**
-- **Java**
-
 ## Summary:
 This repository contains my Leetcode submissions from September 2023 onwards. I have been progressively working on solving algorithmic problems and applying various data structures and dynamic programming techniques.
 
