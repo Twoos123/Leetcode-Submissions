@@ -1,5 +1,13 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
+        stack = []
         words = s.split()
-        reverseWords = words[::-1]
+
+        for word in words:
+            stack.append(word)
+        
+        reverseWords = []
+        while stack:
+            reverseWords.append(stack.pop())
+            
         return ' '.join(reverseWords)
