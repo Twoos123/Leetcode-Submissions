@@ -19,6 +19,6 @@ Now, I am working through **Sean Prashad’s Leetcode Patterns** to further enha
 - [Sean Prashad Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 
 ## Summary:
-This repository contains my Leetcode submissions from September 2023 onwards. I have been progressively working on solving algorithmic problems and applying various data structures and dynamic programming techniques.
+This repository contains my Leetcode submissions from September 2024 onwards. I have been progressively working on solving algorithmic problems and applying various data structures and dynamic programming techniques.
 
 Feel free to explore my submissions and patterns I have learned along the way!
