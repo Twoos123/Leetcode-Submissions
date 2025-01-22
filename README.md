@@ -1,14 +1,28 @@
-# Leetcode-Submissions
-My Leetcode submissions from 2023 September - Present.
+# Leetcode Submissions
 
-I code my Leetcode submissions in Python3 and Java.
+**Timeline:**  
+September 2024 - Present
 
-I was using Neetcodes Blind-75 playlist to go through the problems and learn dynamic programming and data structures. (Finished 2025-01-21)
+**Languages Used:**  
+- Python3  
+- Java
 
-[Neetcode BLIND-75 Playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
+## Learning Resources:
 
-I will now go through Sean Prashads Leetcode Patterns website.
+### 1. **NeetCode Blind-75 Playlist**  
+I started by going through the **Blind-75 Playlist** from NeetCode to learn dynamic programming and data structures.  
+- **Completion Date:** 2025-01-21  
+- [NeetCode Blind-75 Playlist](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)
 
-[Sean Prashad Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
+### 2. **Sean Prashad Leetcode Patterns**  
+Now, I am working through **Sean Prashad’s Leetcode Patterns** to further enhance my problem-solving skills.
+- [Sean Prashad Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 
+## Languages:
+- **Python3**
+- **Java**
 
+## Summary:
+This repository contains my Leetcode submissions from September 2023 onwards. I have been progressively working on solving algorithmic problems and applying various data structures and dynamic programming techniques.
+
+Feel free to explore my submissions and patterns I have learned along the way!
