@@ -5,14 +5,13 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
+        
         dic = {}
 
-        for i, num in enumerate(nums):
-            comp = target - num
+        for i, n in enumerate(nums):
+            comp = target - n
             if comp in dic:
                 return [dic[comp], i]
             else:
-                dic[num] = i
-
-            
+                dic[n] = i
         
