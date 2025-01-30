@@ -5,7 +5,10 @@ class Solution(object):
         :rtype: List[int]
         """
 
-        for i in range(len(nums)):
-            nums[i] *= nums[i]
+        for n in range(len(nums)):
+            nums[n] *= nums[n]
         nums.sort()
         return nums
+
+
+        
