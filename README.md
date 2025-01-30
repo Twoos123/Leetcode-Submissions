@@ -18,6 +18,12 @@ I started by going through the **Blind-75 Playlist** from NeetCode to learn dyna
 Now, I am working through **Sean Prashad’s Leetcode Patterns** to further enhance my problem-solving skills.
 - [Sean Prashad Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 
+- Currently done 16/174 Problems
+
+## Future to-do List:
+- Neetcode 150, Neetcode 250
+- Create a journal entry on how LeetCode affected my problem solving skills.
+
 ## Summary:
 This repository contains my Leetcode submissions from September 2024 onwards. I have been progressively working on solving algorithmic problems and applying various data structures and dynamic programming techniques.
 
