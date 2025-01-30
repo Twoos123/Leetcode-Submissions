@@ -15,13 +15,10 @@ class Solution:
         while q:
             level_sum = 0
             level_size = len(q)
-            for _ in range(len(q)):
+            for _ in range(level_size):
                 curr = q.popleft()
                 level_sum += curr.val
-                if curr.left:
-                    q.append(curr.left)
-                if curr.right:
-                    q.append(curr.right)
-            average = level_sum / level_size
-            res.append(average)
+                if curr.left: q.append(curr.left)
+                if curr.right: q.append(curr.right)
+            res.append(level_sum / level_size)
         return res
