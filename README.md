@@ -18,7 +18,7 @@ I started by going through the **Blind-75 Playlist** from NeetCode to learn dyna
 Now, I am working through **Sean Prashad’s Leetcode Patterns** to further enhance my problem-solving skills.
 - [Sean Prashad Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
 
-- Currently done 16/174 Problems
+- Currently done 30/174 Problems
 
 ## Future to-do List:
 - Neetcode 150, Neetcode 250
