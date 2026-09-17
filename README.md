@@ -49,6 +49,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
@@ -74,6 +75,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -112,4 +114,12 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
