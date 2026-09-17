@@ -42,6 +42,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Dynamic Programming
@@ -69,6 +71,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
