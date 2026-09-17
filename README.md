@@ -75,6 +75,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0007-reverse-integer/) | Medium |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
