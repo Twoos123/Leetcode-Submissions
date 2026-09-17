@@ -45,12 +45,22 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
