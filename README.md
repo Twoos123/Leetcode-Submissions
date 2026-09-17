@@ -119,9 +119,14 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
