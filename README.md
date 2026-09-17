@@ -37,6 +37,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0283-move-zeroes/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -70,6 +71,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
