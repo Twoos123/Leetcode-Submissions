@@ -59,6 +59,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Dynamic Programming
@@ -80,6 +81,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Math
@@ -100,6 +102,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
