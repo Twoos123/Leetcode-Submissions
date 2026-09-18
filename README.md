@@ -42,6 +42,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0070-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0322-coin-change](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
