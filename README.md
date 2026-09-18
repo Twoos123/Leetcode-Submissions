@@ -41,12 +41,14 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0322-coin-change](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +123,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
