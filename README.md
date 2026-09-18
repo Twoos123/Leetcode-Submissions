@@ -67,6 +67,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0322-coin-change](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
 ## Stack
@@ -90,6 +91,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0007-reverse-integer/) | Medium |
+| [0070-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -152,4 +154,8 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
