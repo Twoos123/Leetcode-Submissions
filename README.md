@@ -47,6 +47,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
