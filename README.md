@@ -102,6 +102,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0009-palindrome-number/) | Easy |
 | [0062-unique-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
