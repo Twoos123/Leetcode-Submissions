@@ -35,6 +35,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -55,6 +56,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
@@ -174,4 +176,8 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0064-minimum-path-sum/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
