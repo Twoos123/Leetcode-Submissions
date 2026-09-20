@@ -4,17 +4,14 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def deleteDuplicates(self, head: ListNode | None) -> ListNode | None:
         
-        if head == None:
-            return head
+        curr = head
 
-        fast, slow = head.next, head
-
-        while fast:
-            if fast.val == slow.val:
-                slow.next = fast.next
+        while head and curr.next is not None:
+            if curr.next.val == curr.val:
+                curr.next = curr.next.next
             else:
-                slow = slow.next
-            fast = fast.next
+                curr = curr.next
+        
         return head
