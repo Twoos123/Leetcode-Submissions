@@ -174,6 +174,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 ## Knapsack Problem
@@ -205,17 +206,20 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
