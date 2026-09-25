@@ -178,6 +178,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0112-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
+| [0617-merge-two-binary-trees](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +212,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +232,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0617-merge-two-binary-trees](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
