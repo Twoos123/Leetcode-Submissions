@@ -43,6 +43,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -151,6 +152,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -255,4 +257,8 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
