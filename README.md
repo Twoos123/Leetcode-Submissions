@@ -74,6 +74,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0392-is-subsequence](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
 ## Dynamic Programming
@@ -208,6 +209,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -216,6 +218,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -224,6 +227,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -233,4 +237,8 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
