@@ -50,6 +50,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Twoos123/Leetcode-Submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0844-backspace-string-compare/) | Easy |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0064-minimum-path-sum/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Twoos123/Leetcode-Submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
