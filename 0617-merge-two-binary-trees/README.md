@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/merge-two-binary-trees/">617. Merge Two Binary Trees</a></h2><h3>Easy</h3><hr><p>You are given two binary trees <code>root1</code> and <code>root2</code>.</p>
+<h2><a href="https://leetcode.com/problems/merge-two-binary-trees">617. Merge Two Binary Trees</a></h2><h3>Easy</h3><hr><p>You are given two binary trees <code>root1</code> and <code>root2</code>.</p>
 
 <p>Imagine that when you put one of them to cover the other, some nodes of the two trees are overlapped while the others are not. You need to merge the two trees into a new binary tree. The merge rule is that if two nodes overlap, then sum node values up as the new value of the merged node. Otherwise, the NOT null node will be used as the node of the new tree.</p>
 
