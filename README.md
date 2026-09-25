@@ -49,6 +49,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0713-subarray-product-less-than-k](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Twoos123/Leetcode-Submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0226-invert-binary-tree](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0322-coin-change/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0617-merge-two-binary-trees/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Twoos123/Leetcode-Submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +201,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0064-minimum-path-sum/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Twoos123/Leetcode-Submissions/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
