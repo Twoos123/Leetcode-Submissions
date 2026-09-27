@@ -1,13 +1,17 @@
-from collections import defaultdict
-
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        
-        candidate, count = None, 0
 
-        for num in nums:
-            if count == 0:
-                candidate = num
-            count += (1 if num == candidate else -1)
+        # go through the array using for loop, check if any value appears more than floor(n/2) times in the array, if it does then return the value of that element
 
-        return candidate
+        count = {}
+        target = len(nums) // 2
+
+        for i in nums:
+            if i in count:
+                count[i] += 1
+            else:
+                count[i] = 1
+
+            if count[i] > target:
+                return i
+               
