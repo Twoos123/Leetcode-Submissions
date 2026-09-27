@@ -41,6 +41,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0027-remove-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -70,6 +71,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0015-3sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
