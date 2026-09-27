@@ -39,6 +39,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0015-3sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
@@ -65,6 +66,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -135,6 +137,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0268-missing-number/) | Easy |
