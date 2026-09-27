@@ -37,6 +37,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | [0001-two-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -66,6 +67,7 @@ Feel free to explore my submissions and patterns I have learned along the way!
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Twoos123/Leetcode-Submissions/tree/main/0141-linked-list-cycle/) | Easy |
